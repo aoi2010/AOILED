@@ -23,6 +23,7 @@ Thank You! Also Please give a star to this poor fellow if you like the project. 
 ### Specifications
 
 BOM (from `BOM.csv`):
+###### Some of the products in the BOM are more than required because Robu doesnot allow products to be bought under Rs. 10. Thank You For Understanding.
 
 | Name | Qty | Purpose | Link | Distributor |
 |---|---:|---|---|---|
@@ -61,12 +62,16 @@ Schematic | PCB Layout |
 :-------------------------:|:-------------------------:|
  ![Case Top](CAD/images/TOPPART.png) | ![Case Bottom](CAD/images/BOTTOMPART.png)
 
+ <div align="center">
+
 Assembled Case |
 :-------------------------:|
 ![Assembled Case](CAD/images/AOILED_CASE.png) |
+</div>
+
 
 ### Notes
-The firmeare I used is WLED. It is a premade firmare by Aircoookie and it is open source. HEre is the link to it: [Github](https://github.com/wled/WLED) | [Wiki](https://kno.wled.ge/) | [Flasher(Official)](https://install.wled.me/) | [Flasher(Third Party)](https://wled-install.github.io/)
+The firmeare I used is WLED. It is a premade firmare by Aircoookie and it is open source. Here is the link to it: [Github](https://github.com/wled/WLED) | [Wiki](https://kno.wled.ge/) | [Flasher(Official)](https://install.wled.me/) | [Flasher(Third Party)](https://wled-install.github.io/)
 
 Thank You for Understanding.
 <div align="center">
