@@ -20,3 +20,5 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "Nichicon 470uf 50v","Decoupling",3,1.05,"https://robu.in/product/uhe1h471mhd6-nichicon-470uf-50v-45m%cf%89100khz-%c2%b120-1-66a100khz-plugind12-5xl20mm-aluminum-electrolytic-capacitors-leaded-rohs/","Robu"
 "100nf Disc Capacitor","Decoupling",8,0.10,"https://robu.in/product/100nf-50v-disc-capacitor/","Robu"
 "PJ-102A","12v Power Input(QTY is 2 cuz min order qty is 2)",2,3.23,"https://www.lioncircuits.com/parts/PJ-102A","Lion Circuits"
+"Shipping","Shipping Charges",1,1.32,N/A,"Shipping Charges"
+"TAX","Tax",1,1.30,N/A,"Indian Govt."
